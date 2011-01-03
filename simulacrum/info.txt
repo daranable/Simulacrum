@@ -1,0 +1,13 @@
+"Gamemode"
+{
+    "name"          "Simulacrum"
+    "version"       "0.0pre"
+
+    "author_name"   "Maltera"
+    "author_email"  ""
+    "author_url"    ""
+
+    "icon"          ""
+    "info"          ""
+    "hide"          "0"
+}
